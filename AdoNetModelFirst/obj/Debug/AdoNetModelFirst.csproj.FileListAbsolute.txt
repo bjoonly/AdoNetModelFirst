@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\obj\Debug\AdoNetModelFirst.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\obj\Debug\AdoNetModelFirst.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\bin\Debug\AdoNetModelFirst.exe.config
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\bin\Debug\AdoNetModelFirst.exe
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\bin\Debug\AdoNetModelFirst.pdb
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\obj\Debug\AdoNetModelFirst.csproj.CopyComplete
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\obj\Debug\AdoNetModelFirst.exe
+C:\Users\Admin\source\repos\AdoNetModelFirst\AdoNetModelFirst\obj\Debug\AdoNetModelFirst.pdb
